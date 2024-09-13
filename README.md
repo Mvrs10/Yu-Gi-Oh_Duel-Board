@@ -3,7 +3,7 @@
  ### 🎴 [Website](http://studentweb.cencol.ca/mphan16/FinalProject/FinalProject.html)
 
 <h2>Description</h2>
-An interactive, creative webpage with mainly drag and drop feature.
+An interactive, creative webpage featuring mainly 'drag and drop'.
 <br />
 
 
