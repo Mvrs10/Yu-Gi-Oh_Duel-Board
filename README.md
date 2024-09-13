@@ -3,18 +3,18 @@
  ### 🎴 [Website](http://studentweb.cencol.ca/mphan16/FinalProject/FinalProject.html)
 
 <h2>Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+An interactive, creative webpage with mainly drag and drop feature.
 <br />
 
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>HTML/CSS/JS</b> 
+- <b>FileZilla</b>
 
-<h2>Environments Used </h2>
+<h2>IDE Used </h2>
 
-- <b>Windows 10</b> (21H2)
+- <b>VSCode</b>
 
 <h2>Program walk-through:</h2>
 
