@@ -1,4 +1,4 @@
-<h1>JWipe - Disk Sanitization</h1>
+<h1>Yu-Gi-Oh duel board</h1>
 
  ### 🎴 [Website](http://studentweb.cencol.ca/mphan16/FinalProject/FinalProject.html)
 
