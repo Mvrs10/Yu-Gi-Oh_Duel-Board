@@ -16,33 +16,16 @@ An interactive, creative webpage featuring mainly 'drag and drop'.
 
 - <b>VSCode</b>
 
-<h2>Program walk-through:</h2>
+<h2>Website Features:</h2>
 
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+The card is assgined to a random slot after a reload: <br/>
+<img src="https://i.imgur.com/s5ZQw7u.png" height="80%" width="80%" alt="Yu-Gi-Oh"/>
 <br />
 <br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Dragable slots with visual effects:  <br/>
+<img src="https://i.imgur.com/qevUlGJ.png" height="80%" width="80%" alt="Yu-Gi-Oh"/>
 <br />
 <br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Future Improvement: Card Flipping Animation can be added, more HUD elements can be displayed on the screen<br/>
 </p>
